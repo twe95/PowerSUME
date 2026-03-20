@@ -2,6 +2,7 @@
 
 ![Python Version](https://img.shields.io/badge/Python-3.12-blue)
 ![License](https://img.shields.io/badge/license-AGPL--3.0-green)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19098073.svg)](https://doi.org/10.5281/zenodo.19098073)
 
 
 # Introduction
