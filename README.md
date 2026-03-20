@@ -307,6 +307,6 @@ All dependencies are pinned to fixed versions in `requirements.txt` for reproduc
 
 ## License
 
-Copyright 2022-2025 KIT.
+Copyright 2026 Karlsruhe Institute of Technology.
 
 PowerSUME is licensed under the GNU Affero General Public License v3.0. This license is a strong copyleft license that requires that any derivative work be licensed under the same terms as the original work. It is approved by the Open Source Initiative.
