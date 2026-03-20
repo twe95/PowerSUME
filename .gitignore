@@ -1,0 +1,22 @@
+# Python cache and build artifacts
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+
+# Local runtime outputs
+outputs/
+local_db/
+tensorboard/
+*.db
+
+# IDE/project files
+.idea/
+.vscode/
+

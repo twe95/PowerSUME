@@ -1,0 +1,28 @@
+# Core dependencies
+assume-framework[learning] @ git+https://github.com/assume-framework/assume.git@0b457f6d212163ce42064f89c4b34b8a04a2e5e0
+torch==2.6.0
+numpy==2.3.2
+pydantic==1.10.22
+
+# API and server dependencies
+fastapi==0.88.0
+uvicorn==0.35.0
+httpx==0.23.0
+orjson==3.11.2
+
+# Database and data handling
+sqlalchemy==2.0.42
+pandas==2.3.1
+
+# Agent framework
+mango-agents==2.1.5
+
+# Utilities
+tqdm==4.67.1
+tabulate==0.9.0
+pyyaml==6.0.2
+
+# Development tools
+pytest==8.4.1
+black==25.1.0
+setuptools==80.9.0
